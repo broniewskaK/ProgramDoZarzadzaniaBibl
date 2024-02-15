@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biblioteka.CzytelnikDane">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAABAAAA=</HashCode>
+      <FileName>CzytelnikDane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteka.CzytelnikPlik">
+    <Position X="10.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAggAAgAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CzytelnikPlik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteka.KsiazkaDane">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkCAAAAAAAAABAAAEAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KsiazkaDane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteka.KsiazkaPlik">
+    <Position X="5" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAQAAAAAAgAAAAAAAAAAACAAAAAAAgAAA=</HashCode>
+      <FileName>KsiazkaPlik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteka.Program">
+    <Position X="13.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAEICAAABAQCAgAAAwAAQAAQACBCAAFAAgAAI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteka.WypozyczenieDane">
+    <Position X="15.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAIQAAAAAAAAAAgCAAAAAAAAAAAAAAAAIAAAQAAAQ=</HashCode>
+      <FileName>WypozyczenieDane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteka.WypozyczenieZapis">
+    <Position X="15.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAACAgAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>WypozyczenieZapis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteka.Logowanie">
+    <Position X="10.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Logowanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
